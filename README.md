@@ -1,2 +1,2 @@
 # bookCrawler
-Crawls books from Oxford University's list and stores data 
+crawls through pages of Oxford University's library list and scrapes book data for collection
